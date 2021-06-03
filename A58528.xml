@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance and resolvtions of the Protestant army of Mvnster now in Corke</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58528</idno><idno type="EEBO-CITATION">99831980</idno>
+  <idno type="VID">36447</idno>
+  <idno type="EEBO-PROQUEST">2240906641</idno>
+  
+            <idno type="STC">Wing R974A</idno>
+            <idno type="STC">ESTC R220584</idno>
+            <idno type="PROQUEST">99831980</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831980e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2132:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance and resolvtions of the Protestant army of Mvnster now in Corke</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed in Corcke :</pubPlace>
+                  <date>in the yeare of our Lord God, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on A2r reads: The remonstrance and resolutions of the Protestant army of Mounster now in Corcke.</note>
+                  <note>Signed at end: Rich. Townsende Coll. [and 38 others].</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Cork (Ireland) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Munster (Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36447:1"/>
+            <pb facs="tcp:36447:1"/>
+            <p>THE REMONSTRANCE AND RESOLVTIONS OF THE PROTESTANT ARMY OF MVNSTER NOW IN CORCKE.</p>
+            <p>
+               <hi>Printed at Corcke, in the yeare of our Lord God,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36447:2"/>
+            <pb facs="tcp:36447:2"/>
+            <head>The Remonstrance and Resolutions of the Protestant Army of Mounster now in Corcke.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the fairest actions are obvious to detraction; So the foulest are pallia<g ref="char:EOLhyphen"/>ted with the neatest glosse to make those things (which in their owne shape would seeme dete<g ref="char:EOLhyphen"/>stable) specious formali<g ref="char:EOLhyphen"/>ties of vertue it selfe; We shall not neede other in<g ref="char:EOLhyphen"/>stances hereof then the late unhappy Peace con<g ref="char:EOLhyphen"/>cluded in this Dominion, Which should we but looke on in its own shape and cloathing was no other, but a meere submission of the Protestant Religion and the English interest in this Dominion, under the slavish and barbarous yoake of the Romish Church and Irish Anarchy.</p>
+            <p>On the treaty of the Cessation what were the pre<g ref="char:EOLhyphen"/>tences used to encline the poore deluded English there<g ref="char:EOLhyphen"/>to, but that there should be a cleere submission to the interest of the English Nation and the Authority of England: That the Irish should deliver up all their chiefe Townes to be guarrisoned by the English; That wee should have such increase of Quarters &amp; pay for maintenance of the Army which should be of great advantage, &amp;c. And insteed hereof what followed, but that all the guarrisons in Connaght, Munster and
+<pb facs="tcp:36447:3"/> Leinster, which were gained in by the English, with much hardship and expence of Blood, were againe deposited on the hands of the Irish; All our Quarters in the Countyes of Typperary, Lymericke and Tho<g ref="char:EOLhyphen"/>monde, which paid us Contribution are quitted by us to the maintenance of <hi>Taaffes</hi> Army the dreggs of <hi>Knocknenos,</hi> And even the very Tithes &amp; Ecclesiasti<g ref="char:EOLhyphen"/>call duties of the Protestant Ministry, allowed in those parts for maintenance of the Romish Priesthood.</p>
+            <p>To passe from the Cessation to the Peace, we shall onely observe, that the Irish could propose or desire no more to be granted unto them, then was granted them by the Articles of Peace (viz.) That the power of the titulary Lord Lieutenant the Marquesse of <hi>Or<g ref="char:EOLhyphen"/>monde,</hi> was chayned up by the entervall Commissio<g ref="char:EOLhyphen"/>ners who was to act nothing without the consent of seven or more of them, of which, The Popish Arch<g ref="char:EOLhyphen"/>bishop of <hi>Tuam,</hi> and the Bishop of <hi>Lymericke</hi> were, though not expressed in Print. All places and offices, Military, Judiciall, Ministeriall, Civill, and other to be disposed off, by their assents and not otherwise, with all the priviledges &amp; immunities granted which could be desired by an indulgent and loyall people, with li<g ref="char:EOLhyphen"/>berty of application for future and further concessions and promises of grant thereof.</p>
+            <p>If these things tend to the propagation and profes<g ref="char:EOLhyphen"/>sion of the Protestant Religion and submission to an English interest the actions and conclusions of these times doe make other demonstration then really they are.</p>
+            <p>Surely, The giving away of our Churches &amp; scites of Abbeys in all parts of this Land, except the Countyes of Corcke, Waterford, Kerry, gave but an
+<pb facs="tcp:36447:3"/> introduction to the Irish to lay claime unto the rest in those Countyes also; And the Act of oblivion for tak<g ref="char:EOLhyphen"/>ing away our goods &amp; the lives of many of us was but a faire inducement to allure the Irish to attempt once more to take away the lives of the rest which remained, and then our lands were their owne also.</p>
+            <p>How palpable experience teacheth us this truth, the sad occurrences of late can demonstrate, when as the onely blood that must be expended against Dro<g ref="char:EOLhyphen"/>ghedah, Dundalke, Trim, Kildare, &amp;c. must be of English Protestants, against persons of their owne Re<g ref="char:EOLhyphen"/>ligion &amp; Nation, whiles the Irish must sit still at three miles distance in a secure posture looking on Dublin; And when with the expence of their blood these pla<g ref="char:EOLhyphen"/>ces are gotten who are the confident to receive the guerdon of these mens labours but the Irish and Pa<g ref="char:EOLhyphen"/>pists, as <hi>Daniell O Neile</hi> in Trim, and <hi>Sir Arthur Aston</hi> in Droghedah.</p>
+            <p>When at a neerer distance the Army drew to be<g ref="char:EOLhyphen"/>siege Dublin, who were the men exposed to all the hardshipps and danger of service but the English Pro<g ref="char:EOLhyphen"/>testants? which fought gallantly whiles the Irish ran away and plundered them. And after this for their good service as persons suspected the greater number of the Cavalry of those English must be designed to be drawne into Kilkenny to be disarmed as persons not to be trusted any longer.</p>
+            <p>This being at present avoyded, the next designe is to draw the rest of the English out of their guarrisons and to place Irish in them to take care of their wives, children and estates, as persons not fit to be trusted with their own, least thereby the drawing in of the French, and delivering up of those guarrison, and the
+<pb facs="tcp:36447:4"/> rest of the Kingdome unto them, were a thing of small moment, Which had been really performed if the Embassy of the Lord Viscount <hi>Muskery</hi> to that pur<g ref="char:EOLhyphen"/>pose had not (by Gods providence making us the in<g ref="char:EOLhyphen"/>struments to preserve this place) been annihilated.</p>
+            <p>But now the change of things hath changed the designe, (though some approve of the rest of the guar<g ref="char:EOLhyphen"/>risons to be a thing considerable to deliver as a pawn to the French without this of Corcke.) For <hi>Owen Roe O Neile</hi> must now be Courted with the title of <hi>Gene<g ref="char:EOLhyphen"/>rallissimo</hi> of all the Armyes in this Island; so as hee will undertake to fight with Generall <hi>Cromwell.</hi> And least hee should be shye of such a thing hee shall be promised the Earledome of Tyrone; That all our guarrisons shall be delivered into the hands of the Irish; That all persons shall conforme themselves to the Roman Catholike faith in doctrine and discipline. And that the sole management of the Military power of the Land, shall be in him. And if by these proceedings there be any test of supporting the Prote<g ref="char:EOLhyphen"/>stant Religion and English interest in these Domini<g ref="char:EOLhyphen"/>ons Wee leave to the judicious.</p>
+            <p>The next thing then to be considered is how farre the Kings power doth extend in all these transactions, The name is used, but by the Articles of Peace the Court of Wards, the revenue of the Crowne, the dis<g ref="char:EOLhyphen"/>posing of all places and offices is in the Irish, and what not? So as there may arise a great question, whether there be any thing left but the name of a King which they weare as a cloake like the pretence of Religion for their owne ends.</p>
+            <p>These things being considered, the question be<g ref="char:EOLhyphen"/>ing no longer for the Kings interest, but whether We
+<pb facs="tcp:36447:4"/> must be slaves to that nation Wee have conquered, will make us looke about &amp; contemplate from whence wee have swerved. And withall to lift up our hearts and hands to Almighty God in prayer to restore us to our former being and profession, for the Protestant Religion and interest of the English Nation. And therefore Wee doe here in the presence of Almighty God resolve to submit our selves to the power of our own Nation in the Parliament of England, &amp; to his Ex<g ref="char:EOLhyphen"/>cellency the Lord Lieutenant <hi>Cromwell</hi> their Generall for this Dominion, And with the hazard of our lives and fortunes according to our late Remonstrance and Protestation to defend our selves against the Irish and English Papists or disaffected Protestants in Armes a<g ref="char:EOLhyphen"/>gainst us; And doe really and truly professe our selves members and branches of the Reformed Churches; And bound by the duty Wee owe to our Religion, Countrey, and those which imployed us hither to prosecute the warre against the Irish with all the pos<g ref="char:EOLhyphen"/>sible vigour and alacrity whatsoever hardshipps Wee undergoe. And Wee hope that the Parliament of England will looke on us as people that have beene under a mediate authority seduced by the power and subtilties of our late Commander in Chiefe who hath done or consented unto these things done to the very neere destruction and extinguishment of our Religion and Nation in this Province and Kingdome.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 23. 1649.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Rich. Townsende Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Warden Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>John Gifforde Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Blunt Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Ryves Coll.</hi>
+                     </item>
+                     <pb facs="tcp:36447:5"/>
+                     <item>
+                        <hi>Nich. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urdom Lieut. Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Dowrich Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hodder Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Booker Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Rogers Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Dormer Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Cope Lieut. Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>John Brodricke Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Peisly Maior.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Thornehull Maior.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Mighill-Lieut. Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. More Adiut.</hi>
+                     </item>
+                     <item>
+                        <hi>James Power Maior.</hi>
+                     </item>
+                     <item>
+                        <hi>Anth. Shertliffe Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Cary Maior.</hi>
+                     </item>
+                     <item>
+                        <hi>Anth. Woodley Maior.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Burnell Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>James Percie Ma.</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur King Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>John Meade Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. May Lieut. Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Adam Loftus Lieut. Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Lylles Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Dethicke Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Joseph Cuffe Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Grymes Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Bell Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Hynck. Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Kent. Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Herbert Lewes Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Welsteede Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Huett Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Pome<g ref="char:EOLhyphen"/>roy Capt.</hi>
+                     </item>
+                     <item>
+                        <hi>Swethim Walton Capt.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:36447:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
